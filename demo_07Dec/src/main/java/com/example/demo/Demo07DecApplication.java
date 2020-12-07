@@ -8,7 +8,7 @@ public class Demo07DecApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Demo07DecApplication.class, args);
-		System.out.println("test");
+		System.out.println("tes009999000t");
 	}
 
 }
